@@ -1,3 +1,7 @@
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Viy/30-nites-of-code)  
+  ![@Viy #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Viy)
+
 - 👋 Hi, I’m @vitoria-rafaelly
 - 👀 I’m interested in art, games and coffee.
 - 🌱 I’m currently learning how to break my head with programming.
