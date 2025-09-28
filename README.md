@@ -6,7 +6,7 @@
 - 👀 I’m interested in art, games and coffee.
 - 🌱 I’m currently learning how to break my head with programming.
 - 💞️ I’m looking to collaborate on ... I do not know
-- 📫 How to reach me: @viy6717
+- 📫 How to reach me:www.linkedin.com/in/vitória-rafaelly-trindade-da-silva-417190283
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm getting into programming but i wanted to be painting pictures ;)
 
